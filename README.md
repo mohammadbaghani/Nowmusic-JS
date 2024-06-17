@@ -1,6 +1,6 @@
 music player with java-script by me (Baghani)
 
-View the site here : https://mohammadbaghani.github.io/nowmusic/
+View the site here : https://nowmusic.liara.run
 
 <br>
 </br>
@@ -8,4 +8,4 @@ View the site here : https://mohammadbaghani.github.io/nowmusic/
 
 لینک لایوپروژه : 
 
-https://mohammadbaghani.github.io/nowmusic/
+https://nowmusic.liara.run
