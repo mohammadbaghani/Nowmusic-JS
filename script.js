@@ -28,7 +28,7 @@ const songs = [
     displayName: "Positions",
     artist: "آریانا گرنده",
     cover:
-      "ariana.jpg",
+      "arian.jpg",
 
   }, {
     path:
@@ -42,7 +42,7 @@ const songs = [
   {
     path:
       "aint.mp3",
-    displayName: "I am aint your mamma",
+    displayName: "I aint your mamma",
     artist: "جنیفر لوپز",
     cover:
       "jennif.png",

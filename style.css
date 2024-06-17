@@ -1,6 +1,22 @@
  
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
+
+@font-face {
+  font-family: 'Kalame-bold';
+  src: url(./fonts/KalamehWeb-Bold.woff) format('woff'),
+      url(./fonts/KalamehWeb-Bold.ttf) format('truetype'),
+      url(./fonts/KalamehWeb-Bold.woff2) format('woff2');
+
+}
+@font-face {
+  font-family: 'LuckiestGuy';
+  src: url(./fonts/LuckiestGuy.woff) format('woff'),
+      url(./fonts/LuckiestGuy.otf) format('truetype'),
+      url(./fonts/LuckiestGuy.woff2) format('woff2');
+
+}
+
 html {
   box-sizing: border-box;
 }
@@ -39,7 +55,7 @@ body {
 }
 
 .player-container {
-  height: 530px;
+  height: 5650px;
   width: 400px;
   background: #e7e7e7;
   border-radius: 20px;
@@ -76,13 +92,13 @@ body {
 
 
 h2 {
-  font-size: 25px;
-  text-align: center;
-  margin: 0;
+  font-size: 28px;
+  text-align: center;font-weight: 400;letter-spacing: 3px;
+  margin: 0;  font-family: 'LuckiestGuy';
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;  font-family: 'Kalame-bold';
   text-align: center;
   font-weight: 400;
   margin: 5px 0 0;
@@ -109,8 +125,8 @@ input{position: relative;
   background-color: aqua;
   color: red;
 }
-.progre
-  background: #bae6f3;
+.progress {
+  background: #184ab8;
   border-radius: 5px;
   height: 100%;
   width: 0%;
@@ -134,10 +150,10 @@ input{position: relative;
 
 .fas {
   font-size: 30px;
-  color: rgb(73 141 243);
+  color: rgb(62, 107, 175);
   margin-right: 30px;
   cursor: pointer;
-  position: relative;top: 10px;
+  position: relative;top: 7px;
 
 }
 
