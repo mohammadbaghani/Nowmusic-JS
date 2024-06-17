@@ -1,6 +1,6 @@
 music player with java-script by me (Baghani)
 
-View the site here : https://mohammadbaghani.github.io/musicplayer/
+View the site here : https://mohammadbaghani.github.io/nowmusic/
 
 <br>
 </br>
@@ -8,4 +8,4 @@ View the site here : https://mohammadbaghani.github.io/musicplayer/
 
 لینک لایوپروژه : 
 
-https://mohammadbaghani.github.io/musicplayer/
+https://mohammadbaghani.github.io/nowmusic/
