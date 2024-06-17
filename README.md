@@ -1,4 +1,4 @@
-music player with java-script by me (Baghani)
+Music player with java-script by me (Baghani)
 
 View the site here : https://nowmusic.liara.run
 
