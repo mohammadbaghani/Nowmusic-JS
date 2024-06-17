@@ -55,7 +55,7 @@ body {
 }
 
 .player-container {
-  height: 560px;
+  height: 560px!important;
   width: 400px;
   background: #e7e7e7;
   border-radius: 20px;
