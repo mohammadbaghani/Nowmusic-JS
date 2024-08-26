@@ -9,6 +9,6 @@ View the site here : https://nowmusic.liara.run
 
 برای مشاهده کدها لطفا به برنچ مستر بروید
 
-لینک لایوپروژه :  https://nowmusic.liara.run
+لینک لایو پروژه :  https://nowmusic.liara.run
 
 
