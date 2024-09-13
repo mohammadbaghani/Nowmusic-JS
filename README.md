@@ -1,4 +1,4 @@
-Music player with java-script by me (Baghani)
+Music player with javascript by me (Baghani)
 
 View the site here : https://mohammadbaghani.github.io/Nowmusic-JS
 
