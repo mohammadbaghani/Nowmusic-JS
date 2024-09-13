@@ -9,6 +9,6 @@ View the site here : https://mohammadbaghani.github.io/Nowmusic-JS
 
 برای مشاهده کدها لطفا به برنچ مستر بروید
 
-لینک لایو پروژه :  https://mohammadbaghani.github.io/Nowmusic-JS/
+لینک لایو پروژه :  https://mohammadbaghani.github.io/Nowmusic-JS
 
 
