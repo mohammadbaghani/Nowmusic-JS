@@ -1,6 +1,6 @@
 Music player with java-script by me (Baghani)
 
-View the site here : [https://nowmusic.liara.run](https://mohammadbaghani.github.io/Nowmusic-JS
+View the site here : https://mohammadbaghani.github.io/Nowmusic-JS
 
 <br>
 </br>
