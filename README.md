@@ -8,6 +8,6 @@ View the site here : https://nowmusic.liara.run
 
 
 لینک لایو پروژه : https://nowmusic.liara.run
-![alt text](https://github.com/mohammadbaghani/Shopy-NextJS/blob/main/Screenshot_2025_01_08-5.png)
+![alt text](https://github.com/mohammadbaghani/Nowmusic-JS/blob/master/Screenshot_2025_01_08-12.png)
 
 
