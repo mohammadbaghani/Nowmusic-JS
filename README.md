@@ -1,15 +1,12 @@
-#Musicplayer with java-script by me (Baghani from Iran)
+Music player with javascript by me (Baghani)
 
-View the site here : https://mohammadbaghani.github.io/musicplayer/
-
-<br>
-</br>
-موزیک پلیر اختصاصی با جاوا اسکریپت زدم
-
-لینک لایوپروژه : 
-
-https://mohammadbaghani.github.io/musicplayer/
+View the site here : https://nowmusic.liara.run
 
 
+
+موزیک پلیر با جاوا اسکریپت زدم
+
+
+لینک لایو پروژه : https://nowmusic.liara.run
 
 
