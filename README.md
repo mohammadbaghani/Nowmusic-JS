@@ -4,7 +4,7 @@ View the site here : https://nowmusic.liara.run
 
 
 
-موزیک پلیر با جاوا اسکریپت زدم
+موزیک پلیر با جاوااسکریپت زدم
 
 
 لینک لایو پروژه : https://nowmusic.liara.run
