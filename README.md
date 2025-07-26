@@ -3,11 +3,9 @@ Music player with Javascript
 Demo Link : https://nowmusic.liara.run
 
 
-
 موزیک پلیر با جاوااسکریپت زدم
 <br>
 </br>
-
 
 لینک لایو پروژه : https://nowmusic.liara.run
 <br>
